@@ -1,2 +1,3 @@
 # Chat-Application
-A simple Chat Application developed using C
+This is a chat application developed using **Threads** and **Sockets** in C.
+## Under Construction
